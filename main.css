@@ -383,8 +383,8 @@ body {
 .replay-btn {
   cursor: pointer;
   z-index: 3;
-  pointer-events: none;
-  color: var(--accent) !important;
+  pointer-events: auto;
+  color: #ffffff !important;
   font-weight: 500 !important;
   transition: opacity 0.3s ease;
 }
