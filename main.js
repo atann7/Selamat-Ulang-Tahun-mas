@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   // Dynamically load component scripts
   for (const type of types) {
     try {
-      await loadScript(`./script/components/${type}.js`);
+      await loadScript(`./${type}.js`);
     } catch (e) {
       console.warn(e.message);
     }
