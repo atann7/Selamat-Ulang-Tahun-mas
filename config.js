@@ -29,7 +29,7 @@ const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "mas Wanda",
   photo: "./img/mas wanda.jpeg",       // Place your photo in the img/ folder
-  music: "./music/Pamungkas -  I Love You But I'm Letting Go.mp3",      // Place your music in the music/ folder
+  music: "./Pamungkas -  I Love You But I'm Letting Go.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
   // A toggle button lets the viewer switch between dark & light mode.
