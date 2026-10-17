@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "mas Wanda",
-  photo: "./img/mas wanda.jpeg",       // Place your photo in the img/ folder
+  photo: "./img/mas wanda.jpg",       // Place your photo in the img/ folder
   music: "./Pamungkas -  I Love You But I'm Letting Go.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
