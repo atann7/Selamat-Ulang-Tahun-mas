@@ -474,6 +474,10 @@ body {
     font-size: clamp(1.4rem, 5vw, 2.2rem);
   }
 }
+.replay-btn {
+  cursor: pointer !important;
+  pointer-events: auto !important;
+}
 
 /* ── SweetAlert2 ───────────────────────────────────────────────── */
 .swal2-popup {
