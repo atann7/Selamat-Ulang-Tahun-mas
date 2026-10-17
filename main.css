@@ -478,6 +478,13 @@ body {
   cursor: pointer !important;
   pointer-events: auto !important;
 }
+.section-closing {
+  display: none;
+}
+
+.section-closing p {
+  opacity: 0;
+}
 
 /* ── SweetAlert2 ───────────────────────────────────────────────── */
 .swal2-popup {
