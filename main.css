@@ -479,7 +479,9 @@ body {
   pointer-events: auto !important;
 }
 .section-closing {
-  display: none;
+  display: block !important;
+  opacity: 0;
+  pointer-events: auto;
 }
 
 .section-closing p {
