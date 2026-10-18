@@ -5,9 +5,6 @@
     render(container, section) {
       const div = document.createElement("div");
       div.className = "section section-closing";
-      div.style.display = "block";
-div.style.opacity = "1";
-div.style.visibility = "visible";
       div.innerHTML = `
         <p class="closing-text">${
           section.text || "Okay, now come back and tell me if you liked it."
