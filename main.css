@@ -374,19 +374,14 @@ body {
 
 /* ── Closing ───────────────────────────────────────────────────── */
 .section-closing p {
-  font-size: clamp(1rem, 3.5vw, 1.8rem);
-  font-weight: 300;
-  line-height: 1.9;
-  padding: 0 1rem;
+  opacity: 0;
 }
 
 .replay-btn {
   cursor: pointer;
-  z-index: 3;
-  pointer-events: auto;
+  pointer-events: none;
+  opacity: 0;
   color: #ffffff !important;
-  font-weight: 500 !important;
-  transition: opacity 0.3s ease;
 }
 
 .replay-btn:hover {
