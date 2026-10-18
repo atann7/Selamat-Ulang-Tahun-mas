@@ -373,8 +373,10 @@ body {
 }
 
 /* ── Closing ───────────────────────────────────────────────────── */
-.section-closing p {
-  opacity: 0;
+.section-closing {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
 }
 
 .replay-btn {
