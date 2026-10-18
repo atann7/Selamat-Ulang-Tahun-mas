@@ -480,18 +480,14 @@ body {
   pointer-events: auto !important;
 }
 
-.section-closing p {
-  opacity: 1 !important;
-  visibility: visible !important;
-  color: #ffffff !important;
+.section-closing {
+  display: block !important;
+  opacity: 0;
+  pointer-events: auto;
 }
 
-.replay-btn {
-  cursor: pointer !important;
-  pointer-events: auto !important;
-  opacity: 1 !important;
-  visibility: visible !important;
-  color: #ffffff !important;
+.section-closing p {
+  opacity: 0;
 }
 
 /* ── SweetAlert2 ───────────────────────────────────────────────── */
