@@ -373,17 +373,20 @@ body {
 }
 
 /* ── Closing ───────────────────────────────────────────────────── */
-.section-closing {
-  display: none !important;
-  opacity: 0 !important;
-  visibility: hidden !important;
+.section-closing p {
+  font-size: clamp(1rem, 3.5vw, 1.8rem);
+  font-weight: 300;
+  line-height: 1.9;
+  padding: 0 1rem;
 }
 
 .replay-btn {
   cursor: pointer;
-  pointer-events: none;
-  opacity: 0;
+  z-index: 3;
+  pointer-events: auto;
   color: #ffffff !important;
+  font-weight: 500 !important;
+  transition: opacity 0.3s ease;
 }
 
 .replay-btn:hover {
@@ -476,16 +479,7 @@ body {
   pointer-events: auto !important;
 }
 .section-closing {
-  display: block !important;
-  opacity: 1 !important;
-  visibility: visible !important;
-  pointer-events: auto !important;
-}
-
-.section-closing {
-  display: block !important;
-  opacity: 0;
-  pointer-events: auto;
+  display: none;
 }
 
 .section-closing p {
