@@ -77,16 +77,16 @@ const CONFIG = {
       type: "ideas",
       lines: [
         "banyak hal yg aku pgn ceritain ke kamu, aku kangen banget sama kamu. jadi anggap aja hadiah kecil ini 'as my final act of love'.",
-        "Dulu kukira cinta itu saling bertahan seberapa pun sulit keadaannya, sampai aku mengenal km dan melihat betapa banyaknya beban kerja dan mimpi yang harus kamu perjuangkan setiap hari.",
-        "Aku melihat km begitu cape membagi diri ke mana-mana. Tanpa sadar aku bertanya, 'Apakah hidup km akan lebih mudah tanpa aku?' Pertanyaan itu menghancurkanku, karena untuk kesekian kalinya kumerasa jawabannya mungkin ya.",
-        "Bagaimana bisa di tengah bnyknya keraguan yang km rasakan, meninggalkanku adalah pilihan yg sm sekali tidak pernah km ragukan?. tp aku ngerti, keikhlasan bukan cuma menerima keadaan, melainkan sadar bahwa aku ga boleh jadi alasan km berhenti memperjuangkan hidupmu.",
+        "Jam tidur akhir-akhir ini berantakan, sebab tak terdengar lagi suara nafas kamu.",
+        "rupanya, hal itu mengubah jadwal sejak satu bulan lalu.",
+        "sial, berpengaruh sekali kamu di hidupku.",
         "so..",
       ],
       bigLetters: "SO",
     },
     {
       type: "quote",
-      text: "Jika hidup km terasa lebih ringan setelah aku pergi, ketahuilah tidak ada yang lebih hancur dariku saat sadar bahwa cara terakhir mencintai km adalah berhenti menjadi bebanmu. Ternyata, bentuk keikhlasan paling menyakitkan adalah saat kita harus rela melepaskan.",
+      text: "how can i unlove someone i've once dreamed of marrying.",
       author: "dari ku untuk kamu, mas wanda.",
     },
     {
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "Semoga kamu happy di ulang tahun ke 36 ini ;) (btw ini foto hbd kamu yg ke 35 hihi)",
+      wishText: "Semoga kamu happy di ulang tahun ke 36 ini ;) (btw ini foto hbd kamu yg ke 35 hihi) imysb",
     },
     {
       type: "fireworks",
